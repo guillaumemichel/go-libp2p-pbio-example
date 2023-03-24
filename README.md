@@ -2,6 +2,6 @@
 
 Author: [Guillaume Michel](https://github.com/guillaumemichel)
 
-This repo conatins a minimal Go client-server implementation to transfer protobuf messages over the network using libp2p.
+This repo contains a minimal Go Client-Server implementation to transfer protobuf messages using libp2p.
 
 Compile the Protocol Buffers using the [Makefile](./Makefile).
