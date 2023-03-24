@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package example;
+option go_package = "./pb";
+
+// Trivial Protobuf message definition
+message MyMessage { string field = 1; }
